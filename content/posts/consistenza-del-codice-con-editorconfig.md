@@ -1,7 +1,7 @@
 ---
 title: "Mantenere consistente il codice"
 date: 2021-03-21T16:05:26+01:00
-draft: true
+draft: false
 toc: true
 description: Mantenere la codebase consistente mediante editorconfig.
 ---
