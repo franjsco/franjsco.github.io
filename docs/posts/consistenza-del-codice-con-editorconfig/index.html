@@ -1,25 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-	<meta name="generator" content="Hugo 0.81.0" />
     
       <title>
-        cd /home/franjsco —
-        Another dev blog
+        Mantenere consistente il codice ::
+        cd /home/franjsco — Another dev blog
       </title>
     
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta
   name="description"
-  content="Another dev blog"
+  content="Introduzione In un progetto software, mantere consistente il codice seguendo gli stili e linee guida condivise è importante per l&amp;rsquo;evoluzione e la manutenzione della codebase.
+Se ci sono più mani che lavorano alla stessa codebase, potrebbe capitare con molta facilità che la codebase del progetto diventi inconsistente.
+Degli esempi di inconsistenza potrebbero essere:
+ indentanzioni/spazi differenti codifica dei caratteri caratteri speciali di ritorno a capo ecc&amp;hellip; ecc&amp;hellip;  Cos&amp;rsquo;é EditorConfig?  EditorConfig helps maintain consistent coding styles for multiple developers working on the same project across various editors and IDEs."
 />
 <meta
   name="keywords"
   content=""
 />
 <meta name="robots" content="noodp" />
-<link rel="canonical" href="http://franjsco.github.io/" />
+<link rel="canonical" href="http://franjsco.github.io/posts/consistenza-del-codice-con-editorconfig/" />
 
 
 
@@ -47,20 +49,21 @@
 
 
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="cd /home/franjsco"/>
-<meta name="twitter:description" content=""/>
+<meta name="twitter:title" content="Mantenere consistente il codice"/>
+<meta name="twitter:description" content="Mantenere la codebase consistente mediante editorconfig."/>
 
 
 
-<meta property="og:title" content="cd /home/franjsco" />
-<meta property="og:description" content="" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="http://franjsco.github.io/" /><meta property="og:site_name" content="cd /home/franjsco" />
+<meta property="og:title" content="Mantenere consistente il codice" />
+<meta property="og:description" content="Mantenere la codebase consistente mediante editorconfig." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://franjsco.github.io/posts/consistenza-del-codice-con-editorconfig/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2021-03-21T16:05:26&#43;01:00" />
+<meta property="article:modified_time" content="2021-03-21T16:05:26&#43;01:00" /><meta property="og:site_name" content="cd /home/franjsco" />
 
 
 
 
-<link rel="alternate" type="application/rss+xml" href="/index.xml" title="cd /home/franjsco" />
 
 
 
@@ -151,53 +154,72 @@
   
   
 
-  
-  
-    
-  
-  
+  <div class="post">
+    <h1 class="post-title">Mantenere consistente il codice</h1>
+    <div class="post-meta">
+      
+        <span class="post-date">
+          2021-03-21
+        </span>
 
-  
-
-  <div class="posts">
-    
-    <div class="post on-list">
-      <h1 class="post-title"><a href="http://franjsco.github.io/posts/consistenza-del-codice-con-editorconfig/">Mantenere consistente il codice</a></h1>
-      <div class="post-meta">
         
-          <span class="post-date">
-            2021-03-21
-          </span>
-
           
         
-
-        
-
-        
-      </div>
-
       
 
       
 
-      <div class="post-content">
-        
-          Mantenere la codebase consistente mediante editorconfig.
-        
-      </div>
-      
-        <div><a class="read-more button" href="/posts/consistenza-del-codice-con-editorconfig/">Read more →</a></div>
+
       
     </div>
-    
-    <div class="pagination">
-  <div class="pagination__buttons">
-    
-    
-  </div>
-</div>
 
+    
+
+    
+
+    <div class="post-content">
+      
+        <h2>Table of Contents</h2>
+        <aside class="table-of-contents"><nav id="TableOfContents">
+  <ul>
+    <li><a href="#introduzione">Introduzione</a></li>
+    <li><a href="#cosé-editorconfig">Cos&rsquo;é EditorConfig?</a></li>
+    <li><a href="#installazione-e-configurazione">Installazione e configurazione</a></li>
+  </ul>
+</nav></aside>
+      
+      <h2 id="introduzione">Introduzione</h2>
+<p>In un progetto software, mantere consistente il codice seguendo gli stili e linee guida condivise è importante per l&rsquo;evoluzione e la manutenzione della codebase.</p>
+<p>Se ci sono più mani che lavorano alla stessa codebase, potrebbe capitare con molta facilità che la codebase del progetto diventi inconsistente.</p>
+<p>Degli esempi di inconsistenza potrebbero essere:</p>
+<ul>
+<li>indentanzioni/spazi differenti</li>
+<li>codifica dei caratteri</li>
+<li>caratteri speciali di ritorno a capo</li>
+<li>ecc&hellip; ecc&hellip;</li>
+</ul>
+<h2 id="cosé-editorconfig">Cos&rsquo;é EditorConfig?</h2>
+<blockquote>
+<p>EditorConfig helps maintain consistent coding styles for multiple developers working on the same project across various editors and IDEs.</p>
+</blockquote>
+<p><strong>EditorConfig</strong> è uno strumento opensource che permette di uniformare lo stile di codifica di editor differenti. Il tutto predisponendo un file di configurazione chiamato <code>.editorconfig</code> con all&rsquo;interno tutte le regole di cui necessitiamo.</p>
+<p>La buona notizia è che molti editor usati nell&rsquo;ambito della programmazione lo supportano nativamente. Qualora il vostro editor non lo suportasse nativamente, basterà semplicemente installarlo come plugin (sempre se il vostro editor ve lo permette).</p>
+<h2 id="installazione-e-configurazione">Installazione e configurazione</h2>
+<p>Potete verificare gli editor supportati nativamente o scaricare il plugin direttamente da <a href="https://editorconfig.org/#download">qui</a>.</p>
+<p>Se necessitate dei dettagli su come configurare le regole, a <a href="https://editorconfig.org/#file-format-details">questo indirizzo</a> potrete trovare tutte le informazione di cui necessitate.</p>
+<p>Questo è tutto!  Passo e chiudo :)</p>
+
+    </div>
+    
+      
+    
+
+    
+      
+        
+
+      
+    
   </div>
 
       </div>

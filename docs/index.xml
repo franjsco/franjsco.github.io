@@ -9,9 +9,30 @@
     <description>Recent content on cd /home/franjsco</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 21 Mar 2021 16:05:26 +0100</lastBuildDate>
     
 	<atom:link href="http://franjsco.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mantenere consistente il codice</title>
+      <link>http://franjsco.github.io/posts/consistenza-del-codice-con-editorconfig/</link>
+      <pubDate>Sun, 21 Mar 2021 16:05:26 +0100</pubDate>
+      
+      <guid>http://franjsco.github.io/posts/consistenza-del-codice-con-editorconfig/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Mantenere la codebase consistente mediante editorconfig.
+          
+        
+        </description>
+    </item>
     
     <item>
       <title>About</title>
