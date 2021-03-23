@@ -2,7 +2,6 @@ baseURL = "https://franjsco.github.io/"
 languageCode = "en-us"
 title = "franjsco blog"
 theme = "hugo-theme-hello-friend"
-publishDir = "docs"
 paginate = 5
 
 [params]
