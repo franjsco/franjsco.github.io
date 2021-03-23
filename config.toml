@@ -7,12 +7,14 @@ paginate = 5
 [params]
   contentTypeName = "posts"
   defaultTheme = "light" # light/dark
-  
-
   showMenuItems = 2
   showReadingTime = false
   toc = false
-  # rssFullText = true
+
+[outputFormats]
+  [outputFormats.RSS]
+    mediatype = "application/rss"
+    baseName = "rss"
 
 [languages]
   [languages.en]
