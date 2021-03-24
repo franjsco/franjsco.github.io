@@ -1,47 +1,60 @@
 baseURL = "https://franjsco.github.io/"
 languageCode = "en-us"
-title = "franjsco blog"
-theme = "hello-friend"
+title = "cd /home/franjsco 🧑‍💻"
+theme = "PaperMod"
 paginate = 5
+enableRobotsTXT = true
 
 [params]
-  contentTypeName = "posts"
-  defaultTheme = "light" # light/dark
-  showMenuItems = 2
-  showReadingTime = false
-  toc = false
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  showtoc = true
+  tocopen = true
+  ShowBreadCrumbs = true
+  ShowPostNavLinks = true
+
+  [params.profileMode]
+    enabled = true
+    title = "Francesco Esposito"
+    subtitle = "⌨️ Full-Stack developer| 🧾 Open-source enthusiast | 🐧 Linux lover"
+
+    imageUrl = "https://avatars.githubusercontent.com/u/33671357"
+
+    [[params.profileMode.buttons]]
+      name = "Blog"
+      url = "/posts"
+
+    [[params.profileMode.buttons]]
+      name = "Chi sono"
+      url = "/about"
+
+    [[params.profileMode.buttons]]
+      name = "Progetti"
+      url = "/projects"
+
+  [[params.socialIcons]]
+    name = "GitHub"
+    url = "https://github.com/franjsco"
+
+  [[params.socialIcons]]
+    name = "Twitter"
+    url = "https://twitter.com/franjsco"
+
+  [[params.socialIcons]]
+    name = "Telegram"
+    url = "https://t.me/franjsco"
+
+  [[params.socialIcons]]
+    name = "Mastodon"
+    url = "https://mastodon.uno/@franjsco"
+
+   [[params.socialIcons]]
+    name = "rss"
+    url = "https://franjsco.github.io/rss.xml"
+
 
 [outputFormats]
   [outputFormats.RSS]
     mediatype = "application/rss"
     baseName = "rss"
 
-[languages]
-  [languages.en]
-    title = "cd /home/franjsco"
-    subtitle = "Another dev blog"
-    keywords = ""
-    copyright = ""
-    menuMore = "Show more"
-    writtenBy = "Written by"
-    readMore = "Read more"
-    readOtherPosts = "Read other posts"
-    newerPosts = "Newer posts"
-    olderPosts = "Older posts"
-    minuteReadingTime = "min read"
-    dateFormatSingle = "2006-01-02"
-    dateFormatList = "2006-01-02"
-
-    [languages.en.params.logo]
-      logoText = "cd /home/franjsco"
-      logoHomeLink = "/"
-
-    [languages.en.menu]
-      [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About me"
-        url = "/about"
-      [[languages.en.menu.main]]
-        identifier = "projects"
-        name = "Projects"
-        url = "/projects"
