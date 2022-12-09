@@ -1,0 +1,5 @@
+main:
+  - title: "Chi sono"
+    url: /about/
+  - title: "Portfolio"
+    url: /portfolio/

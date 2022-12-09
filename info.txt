@@ -1,0 +1,14 @@
+Creating a site:
+
+cd to empty directory
+docker run --rm -v $(pwd):/site bretfisher/jekyll new .
+
+Start a local server with sane defaults listening on port 4000:
+
+cd dir/of/your/jekyll/site
+docker run --rm -p 4000:4000 -v $(pwd):/site bretfisher/jekyll-serve
+
+
+just add the jekyll options to the end of the bretfisher/jekyll:
+
+docker run --rm -v $(pwd):/site bretfisher/jekyll doctor
