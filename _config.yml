@@ -48,7 +48,7 @@ search: true
 lunr:
   search_within_pages: true
 
-masthead_title: "~$ franjsco@francescoesposito.org"
+masthead_title: "~$ franjsco"
 subtitle: "Another developer blog"
 
 
