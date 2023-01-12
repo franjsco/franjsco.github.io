@@ -8,7 +8,7 @@ author_profile: true
 
 <p class="notice--info"><strong>Ciao internauta 👋!</strong> 
 <br> Sei atterrato sul blog di uno sviluppatore🚀. 
-<br><br>Potresti trovare contenuti abbastanza tecnici e a tratti umoristici. Se non comprendi alcune cose, non preoccuparti. 💻</p>
+<br><br>Potresti trovare contenuti abbastanza tecnici e a tratti umoristici. Se non comprendi alcune cose, non preoccuparti.</p>
 
 ```
 ~$ cowsay "I use GNU/Linux btw"

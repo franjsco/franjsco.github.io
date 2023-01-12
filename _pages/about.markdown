@@ -1,48 +1,44 @@
 ---
 layout: single
-title: About
+title: About me
 permalink: /about/
+toc: true
 ---
 
-<p class="notice--warning"><strong>Attenzione! ⚠️</strong> <br>
-Sei atterrato sulla pagina "About me" di uno sviluppatore🚀. 
-<br><br>Per piacere, non prendere questa pagina troppo seriamente.</p>
+<p class="notice--warning"><strong>⚠️ Attenzione! Sei atterrato sulla pagina "About me" di uno sviluppatore. 🚀</strong> <br>
+<br>Per piacere, non prendere questa pagina troppo seriamente.</p>
 
-## 🧑🏻‍💻 Chi sono e cosa faccio 
+## 🧑🏻‍💻 Chi sono 
 
-Mi chiamo **Francesco Esposito**, sul web **@franjsco**. \\
-\\
-Sono un **software developer** anche se spesso mi piace definirmi un **hacker**/**sperimentatore**.
+Mi chiamo **Francesco Esposito**, sul web **@franjsco**. 
 
+Sono un **software developer** anche se spesso mi piace definirmi un **hacker**, un **curioso** e delle volte anche un **filosofo**.
 
-## 🎯 Quali sono i miei interessi
+Nutro un grande interesse per **l’informatica**, e seguo con particolare entusiasmo tematiche relative a:
 
-Il mio interesse principale è **l'informatica**, con particolare focus per:
-
-- 🖥️ Programmazione
+- 🖥️ Sviluppo Software
 - 🐧 Sistemi GNU/Linux e opensource
-- 🕵️ Hacking e privacy
-- 🪙 Bitcoin
+- 🕵️ Hacking, privacy e Bitcoin
 
 ---
 
 Oltre all'**informatica**, seguo con interesse anche:
 
-- ☢️ Survival, Prepping e Bushcraft
-- 🔨 DIY (Fai da te)
-- 📖 Filosofia
-- 📊 Miglioramento personale/produttività
+- 📖 Sviluppo individuale, psicologia e filosofia
+- ☢️ Survival e Prepping
+- 🌱 Minimalismo
 
 
-## ✨ Le cose in cui credo
+## ✨ Cose in cui credo
 
-Indipendenza, apertura, conoscenza, libertà, collaborazione. 
+> Indipendenza, apertura, conoscenza, libertà, collaborazione. 
 
 
 Seguo con particolare entusiasmo tematiche come:
 
-#### 💡 La conoscenza aperta 
-Credo che grazie ai computer e alla rete, qualsiasi individuo abbia la possibilità di apprendere e condividere cose interessanti.
+### <u>💡 La conoscenza aperta </u>
+
+Molta della conoscenza personale, soprattuto inerente ai miei interessi e al mio lavoro, l'ho acquisita grazie alla conoscenza condivisa in rete.
 
 > *“Se tu hai una mela, e io ho una mela, e ce le scambiamo,
 allora tu ed io abbiamo sempre una mela ciascuno.
@@ -50,15 +46,30 @@ Ma se tu hai un’idea, ed io ho un’idea, e ce le scambiamo,
 allora abbiamo entrambi due idee.”* \\
 – **George Bernard Shaw**
 
+Proprio per questo, credo che grazie ai computer e alla rete, qualsiasi individuo abbia la possibilità di avere accesso alla conoscenza e condividere cose interessanti.
 
-Proprio per questo, sono sempre aperto al conoscere cose nuove, sperimentando qualsiasi cosa mi capiti sotto mano con un approccio **"Hands-on"** 🔨.
-
-> *“Dentro i confini del computer, sei tu il creatore. Controlli ‐ almeno potenzialmente ‐ tutto ciò che vi succede. Se sei abbastanza bravo, puoi essere un dio. Su piccola scala.”*
-– **Linus Torvalds**
+> *«La conoscenza, a differenza della proprietà di un bene fisico, può essere condivisa da molti senza che nessuno si impoverisca»*
+– **Aaron Swartz**
 
 
-### 🌐 Contribuire all'interno delle community 
-Passo spesso una parte del mio tempo libero a sviluppare software opensource, partecipare a community e contribuire a progetti che ruotano attorno al mondo open-source e open-data.
+Ho trovato grande ispirazione in **[Aaron Swartz](https://it.wikipedia.org/wiki/Aaron_Swartz)** con i suoi contributi ([Guerilla Open Access Manifesto](https://devol.it/it/guerrilla-open-access), [Creative Commons](https://creativecommons.org/)), la **[Cultura Hacker](https://www.autistici.org/hackarena/etica/jargon.htm)**, il movimento e le persone dietro il **[Software Libero](https://it.wikipedia.org/wiki/Software_libero)**.
+
+### <u>📚 L'apprendimento continuo</u>
+
+Credo fortemente nell’apprendimento continuo. Reputo impossibile nella vita smettere di apprendere. Le cose cambiano, e anche in fretta.
+
+> *«L’unica costante è il cambiamento»*
+– **Eraclito**
+
+
+Essendo particolarmente curioso, sono sempre aperto al conoscere cose nuove, aggiornarmi e sperimentare qualsiasi cosa mi incuriosica con un approccio **"Hands-on"** 🔨.
+
+> *«Non ho particolari talenti, sono soltanto appassionatamente curioso»*
+– **Albert Einstein**
+
+
+### 🌐 <u>Contribuire nelle comunità</u>
+Passo parte del mio tempo libero a sviluppare software opensource, partecipare alle comunità, scrivere articoli e contribuire a progetti che ruotano attorno al mondo open-source e open-data.
 
 Faccio inoltre parte delle seguenti associazioni:
 
