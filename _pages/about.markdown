@@ -5,28 +5,31 @@ permalink: /about/
 toc: true
 ---
 
-<p class="notice--warning"><strong>⚠️ Attenzione! Sei atterrato sulla pagina "About me" di uno sviluppatore. 🚀</strong> <br>
+<p class="notice--warning"><strong>⚠️ Attenzione! </strong> <br>
+Sei atterrato sulla pagina "About me" di uno sviluppatore. 🚀 <br>
 <br>Per piacere, non prendere questa pagina troppo seriamente.</p>
 
 ## 🧑🏻‍💻 Chi sono 
 
 Mi chiamo **Francesco Esposito**, sul web **@franjsco**. 
 
-Sono un **software developer** anche se spesso mi piace definirmi un **hacker**, un **curioso** e delle volte anche un **filosofo**.
+Sono un **software developer** anche se spesso mi piace definirmi un **curioso** e delle volte anche un **costruttore**.
 
 Nutro un grande interesse per **l’informatica**, e seguo con particolare entusiasmo tematiche relative a:
 
 - 🖥️ Sviluppo Software
-- 🐧 Sistemi GNU/Linux e opensource
-- 🕵️ Hacking, privacy e Bitcoin
+- 🐧 Sistemi GNU/Linux
+- ⚙️ Tecnologie opensource
+- 🕵️ Hacking e privacy
 
 ---
 
-Oltre all'**informatica**, seguo con interesse anche:
+Oltre all'**informatica** seguo con interesse anche:
 
 - 📖 Sviluppo individuale, psicologia e filosofia
-- ☢️ Survival e Prepping
+- 🚀 Business
 - 🌱 Minimalismo
+- ☢️ Survival/Prepping
 
 
 ## ✨ Cose in cui credo
@@ -38,7 +41,7 @@ Seguo con particolare entusiasmo tematiche come:
 
 ### <u>💡 La conoscenza aperta </u>
 
-Molta della conoscenza personale, soprattuto inerente ai miei interessi e al mio lavoro, l'ho acquisita grazie alla conoscenza condivisa in rete.
+Molta della conoscenza personale, soprattutto inerente ai miei interessi e al mio lavoro, l'ho acquisita alle risorse condivise in rete.
 
 > *“Se tu hai una mela, e io ho una mela, e ce le scambiamo,
 allora tu ed io abbiamo sempre una mela ciascuno.
@@ -69,15 +72,14 @@ Essendo particolarmente curioso, sono sempre aperto al conoscere cose nuove, agg
 
 
 ### 🌐 <u>Contribuire nelle comunità</u>
-Passo parte del mio tempo libero a sviluppare software opensource, partecipare alle comunità, scrivere articoli e contribuire a progetti che ruotano attorno al mondo open-source e open-data.
+Trascorro parte del mio tempo libero a sviluppare software opensource, partecipare alle comunità, scrivere articoli e contribuire a progetti che ruotano attorno al mondo open-source e open-data.
 
 Faccio inoltre parte delle seguenti associazioni:
 
 -  [NaLUG](https://www.nalug.tech/) 🐧, un'associazione senza scopo di lucro di che ha come finalità la divulgazione e la promozione degli ideali afferenti il software libero con particolare riferimento al sistema operativo GNU/Linux e alle libertà digitali in generale.
 
 - [Informatici Senza Frontiere](https://www.informaticisenzafrontiere.org/) 🖥️, un'associazione senza scopo di lucro che propone un nuovo uso della tecnologia più intelligente, sostenibile e solidale. Offre il proprio
-tempo, le proprie competenze, esperienze e passioni informatiche per realizzare progetti no profit, privilegiando contesti di
-emarginazione e difficoltà e situazioni di emergenza.
+tempo, le proprie competenze, esperienze e passioni informatiche per realizzare progetti no profit, privilegiando contesti di difficoltà, emarginazione e situazioni di emergenza.
 
 ## 💬 Come contattarmi 
 
