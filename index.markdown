@@ -10,17 +10,3 @@ author_profile: true
 <br> Sei atterrato sul blog di uno sviluppatore🚀. 
 <br><br>Potresti trovare contenuti abbastanza tecnici e a tratti umoristici. Se non comprendi alcune cose, non preoccuparti.</p>
 
-```
-~$ cowsay "I use GNU/Linux btw"
-
- --------------------- 
-< I use GNU/Linux btw >
- --------------------- 
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
-exit 0 
-```
-
