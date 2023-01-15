@@ -48,8 +48,8 @@ search: true
 lunr:
   search_within_pages: true
 
-masthead_title: "~$ franjsco"
-subtitle: "Another developer blog"
+masthead_title: "franjsco"
+subtitle: "Innovation is freedom"
 
 
 # Site Author
@@ -63,13 +63,13 @@ author:
     - label: "francescoesposito.org"
       icon: "fas fa-fw fa-globe"
       url: "https://francescoesposito.org"
-    - label: "Twitter (@franjsco)"
+    - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/franjsco"
-    - label: "GitHub (@franjsco)"
+    - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/franjsco"
-    - label: "Telegram (@franjsco)"
+    - label: "Telegram"
       icon: "fab fa-fw fa-telegram"
       url: "https://t.me/franjsco"
 
