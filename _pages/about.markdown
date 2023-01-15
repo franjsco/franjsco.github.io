@@ -5,31 +5,26 @@ permalink: /about/
 toc: true
 ---
 
-<p class="notice--warning"><strong>⚠️ Attenzione! </strong> <br>
-Sei atterrato sulla pagina "About me" di uno sviluppatore. 🚀 <br>
-<br>Per piacere, non prendere questa pagina troppo seriamente.</p>
-
-## 🧑🏻‍💻 Chi sono 
+## 🧑🏻‍💻 Presentazione 
 
 Mi chiamo **Francesco Esposito**, sul web **@franjsco**. 
 
-Sono un **software developer** anche se spesso mi piace definirmi un **curioso** e delle volte anche un **costruttore**.
+Sono un **software developer** anche se spesso piace definirmi semplicemente un **curioso** e delle volte anche un **costruttore**.
 
 Nutro un grande interesse per **l’informatica**, e seguo con particolare entusiasmo tematiche relative a:
 
-- 🖥️ Sviluppo Software
-- 🐧 Sistemi GNU/Linux
-- ⚙️ Tecnologie opensource
-- 🕵️ Hacking e privacy
+- Sviluppo Software
+- Sistemi GNU/Linux
+- Tecnologie opensource
+- Hacking e privacy
 
----
-
+<br>
 Oltre all'**informatica** seguo con interesse anche:
 
-- 📖 Sviluppo individuale, psicologia e filosofia
-- 🚀 Business
-- 🌱 Minimalismo
-- ☢️ Survival/Prepping
+- Sviluppo individuale, psicologia e filosofia
+- Business
+- Minimalismo
+- Survival/Prepping
 
 
 ## ✨ Cose in cui credo
@@ -39,7 +34,7 @@ Oltre all'**informatica** seguo con interesse anche:
 
 Seguo con particolare entusiasmo tematiche come:
 
-### <u>💡 La conoscenza aperta </u>
+### La conoscenza aperta
 
 Molta della conoscenza personale, soprattutto inerente ai miei interessi e al mio lavoro, l'ho acquisita alle risorse condivise in rete.
 
@@ -55,9 +50,10 @@ Proprio per questo, credo che grazie ai computer e alla rete, qualsiasi individu
 – **Aaron Swartz**
 
 
-Ho trovato grande ispirazione in **[Aaron Swartz](https://it.wikipedia.org/wiki/Aaron_Swartz)** con i suoi contributi ([Guerilla Open Access Manifesto](https://devol.it/it/guerrilla-open-access), [Creative Commons](https://creativecommons.org/)), la **[Cultura Hacker](https://www.autistici.org/hackarena/etica/jargon.htm)**, il movimento e le persone dietro il **[Software Libero](https://it.wikipedia.org/wiki/Software_libero)**.
+Ho trovato grande ispirazione in **[Aaron Swartz](https://it.wikipedia.org/wiki/Aaron_Swartz)** con i suoi contributi ([Guerilla Open Access Manifesto](https://devol.it/it/guerrilla-open-access), [Creative Commons](https://creativecommons.org/)), la **[Cultura Hacker](https://www.autistici.org/hackarena/etica/jargon.htm)**, il movimento e le persone dietro il **[Software Libero](https://it.wikipedia.org/wiki/Software_libero)**. 
 
-### <u>📚 L'apprendimento continuo</u>
+
+### L'apprendimento continuo
 
 Credo fortemente nell’apprendimento continuo. Reputo impossibile nella vita smettere di apprendere. Le cose cambiano, e anche in fretta.
 
@@ -65,20 +61,20 @@ Credo fortemente nell’apprendimento continuo. Reputo impossibile nella vita sm
 – **Eraclito**
 
 
-Essendo particolarmente curioso, sono sempre aperto al conoscere cose nuove, aggiornarmi e sperimentare qualsiasi cosa mi incuriosica con un approccio **"Hands-on"** 🔨.
+Essendo particolarmente curioso, sono sempre aperto al conoscere cose nuove, aggiornarmi e sperimentare qualsiasi cosa mi incuriosica con un approccio **"Hands-on"**.
 
 > *«Non ho particolari talenti, sono soltanto appassionatamente curioso»*
 – **Albert Einstein**
 
 
-### 🌐 <u>Contribuire nelle comunità</u>
+### Contribuire nelle comunità
 Trascorro parte del mio tempo libero a sviluppare software opensource, partecipare alle comunità, scrivere articoli e contribuire a progetti che ruotano attorno al mondo open-source e open-data.
 
 Faccio inoltre parte delle seguenti associazioni:
 
--  [NaLUG](https://www.nalug.tech/) 🐧, un'associazione senza scopo di lucro di che ha come finalità la divulgazione e la promozione degli ideali afferenti il software libero con particolare riferimento al sistema operativo GNU/Linux e alle libertà digitali in generale.
+-  [NaLUG](https://www.nalug.tech/), un'associazione senza scopo di lucro di che ha come finalità la divulgazione e la promozione degli ideali afferenti il software libero con particolare riferimento al sistema operativo GNU/Linux e alle libertà digitali in generale.
 
-- [Informatici Senza Frontiere](https://www.informaticisenzafrontiere.org/) 🖥️, un'associazione senza scopo di lucro che propone un nuovo uso della tecnologia più intelligente, sostenibile e solidale. Offre il proprio
+- [Informatici Senza Frontiere](https://www.informaticisenzafrontiere.org/), un'associazione senza scopo di lucro che propone un nuovo uso della tecnologia più intelligente, sostenibile e solidale. Offre il proprio
 tempo, le proprie competenze, esperienze e passioni informatiche per realizzare progetti no profit, privilegiando contesti di difficoltà, emarginazione e situazioni di emergenza.
 
 ## 💬 Come contattarmi 
