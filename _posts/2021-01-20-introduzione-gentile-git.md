@@ -158,4 +158,4 @@ Prendiamo come esempio l'immagine precedente. In essa sono presenti due branch, 
 - [Learn Git Branching](https://learngitbranching.js.org). Web app che permette di imparare il branching mediante delle sfide.
 
 
-- [Git cheat sheet by Atlassian](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet).
+- [Git cheat sheet by Atlassian](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet). Cheat sheet rilasciato da Atlassian.
