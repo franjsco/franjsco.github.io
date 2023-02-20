@@ -8,13 +8,12 @@ categories:
 Nel post [GNU/Linux e l'opensource mi hanno cambiato la vita](https://franjsco.github.io/2021/09/01/gnulinux-opensource-mi-hanno-cambiato-la-vita.html) mi ero ripromesso di scrivere un post per argomentare perché mi piace **openSUSE Tumbleweed**.
 
 
-## Cos'è openSUSE? 📜
-
-<div align="center">
-    <img src="https://i.giphy.com/media/wZQBoc6V821fSJMrRO/giphy.webp"  width="250px">
-</div>
+## 📜 Un introduzione ad openSUSE 
 
 Per introdurre cos'è openSUSE, riporto quanto presente nella wiki ufficiale del progetto:
+
+
+<img style="float: right; max-height: 180px" src="/assets/images/post/opensuse-button.png">
 
 >Il progetto openSUSE è l'espressione dell'impegno di una comunità diffusa in tutto il mondo per promuovere l'utilizzo di Linux ovunque. openSUSE crea una delle migliori distribuzioni Linux, e una varietà di strumenti utili (come OBS, OpenQA, KIWI, YaST, OSEM e molti altri), lavorando insieme in modo aperto, trasparente e in un clima di amichevole condivisione come parte della comunità mondiale del Software Libero e Open Source. 
 
@@ -23,31 +22,26 @@ Sembra più o meno chiaro, ma aggiungerei un ulteriore dettaglio:
 È sponsorizzata da [SUSE](https://www.suse.com/it-it/) e la sua mascotte è un camaleonte simpatico.
 
 
-## Cosa mi piace di Tumbleweed 🔥
+## 🔥 Cose belle di Tumbleweed 
 
 <div align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/OpenSUSE_Tumbleweed_green_logo.svg" width="220px">
 </div>
 
-<div align="center">
-    <img src="https://i.giphy.com/media/gPBKtKGk00TfD3D6mY/giphy.webp" width="250px">
-</div>
+[openSUSE Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) ha molte cose belle.
 
-
-[openSUSE Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) mi piace per alcune cosette come:
-
-### Rolling release 🔄
+### Rolling release
 
 Ha un modello di rilascio rolling, ovvero a rilascio continuo. 
 Sono sempre alla ricerca dell'ultima versione software. E quindi, come potevo vivere senza una distribuzione rolling?? Non penso ci sia da aggiungere altro. Anzi si, consiglio una lettura di [Regular Release Distributions Are Wrong](https://rootco.de/2020-02-10-regular-releases-are-wrong/).
 
 
-### Rollback per esseri umani ⏳
+### Rollback per esseri umani
 
 Le cose possono rompersi, e per sicurezza è meglio prepararsi. **openSUSE** ha uno strumento chiamato [snapper](https://en.opensuse.org/Portal:Snapper) (configurato out-of-box), che permette di creare e gestire snapshot del filesystem. Lo strumento rende molto semplice effettuare rollback di sistema direttamente dal boot loader (ho iniziato a dormire meglio la notte).
 
 
-### Stabile e testata (con test automatici) 🧪
+### Stabile e testata (con test automatici)
 
 I rilasci/aggiornamenti di **openSUSE** sono testati mediante [openQA](https://openqa.opensuse.org/), un tool di testing automatico sviluppato in casa **openSUSE**. La vita è troppo breve per i test manuali!!
 
@@ -55,7 +49,7 @@ PS: nel tempo libero ho sviluppato [osqu](https://github.com/franjsco/osqu), un 
 
 
 
-### Agnostico sul desktop environment 😇
+### Agnostico sul desktop environment
 
 Ha un approccio agnostico sul desktop environment. Non avendone uno di default, lascia all'utente la possibilità di scegliere il suo preferito.
 
@@ -67,18 +61,18 @@ Maggiori dettagli:
 
 
 
-###  Package manager 🧰
+###  Package manager
 
 Ha [Zypper](https://en.opensuse.org/SDB:Zypper_usage), un package manager **rpm** più performante di **dnf** (spero che nessuno mi faccia fuori per questa affermazione). Mi trovo davvero bene e fino ad oggi non ho avuto rogne.
 
 
-### openSUSE Build Service 📦
+### openSUSE Build Service
 
 Ha [openSUSE Build Service](https://en.opensuse.org/Portal:Build_Service), un sistema automatizzato di build e distribuzione pacchetti da sorgenti. Su OBS è possibile trovare software aggiuntivo fornito da repository di terzi (o crearsi il proprio).
 
 Maggiori dettagli: [Public Projects - openSUSE Build Service](https://build.opensuse.org/project#)
 
-### Configura ogni aspetto con YaST 🔨
+### Configura ogni aspetto con YaST
 
 [YaST](https://yast.opensuse.org/) è un tool di installazione e configurazione per **openSUSE** e **SUSE Linux Enterprise**. Permette di controllare la maggior parte delle impostazioni di sistema e viene fornito con due interfacce: Qt e ncurses.
 
@@ -87,7 +81,7 @@ Ovviamente per me esiste solo l'interfaccia **ncurses**. 🤓
 E per gli amanti dell'automazione, esiste [AutoYaST](https://doc.opensuse.org/projects/autoyast/). Uno strumento che permette di automatizzare installazioni e configurazioni di sistema mediante dei file di configurazione.
 
 
-## Oltre Tumbleweed ✨
+## ✨ Oltre Tumbleweed
 
 Per quanto preferisca **openSUSE Tumbleweed**, esistono altre versioni di **openSUSE** che vale la pena menzionare:
 
