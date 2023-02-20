@@ -5,7 +5,6 @@ date:   2021-09-01 00:00:00 +0000
 categories: 
 ---
 
-<img style="float: right; max-height: 160px" src="/assets/images/post/linux-logo.jpg">
 
 Dopo una settimana dall'anniversario dei [30 anni di Linux](https://www.zdnet.com/article/linus-torvalds-on-linuxs-30th-birthday/) mi sembrava doveroso condividere la mia storia con [GNU/Linux](https://www.gnu.org/gnu/linux-and-gnu.it.html) e come lo stesso abbia cambiato la mia vita. 
 
@@ -15,6 +14,8 @@ Spoiler: `SI`!
 
 
 ## 🚀 Il viaggio con il pinguino 
+
+<img style="float: right; max-height: 160px" src="/assets/images/post/linux-logo.jpg">
 
 Il mio viaggio con **GNU/Linux** è stato (lo è ancora) uno di quei viaggi indimenticabili: avventuroso, pieno di ostacoli e soddisfazioni. Se potessi descrivere il tutto con una sola frase: *sbattere la testa ma con entusiasmo*.
 
