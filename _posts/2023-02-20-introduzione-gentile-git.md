@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Una gentile introduzione a Git"
-date:   2023-01-20 00:00:00 +0000
+date:   2023-02-20 00:00:00 +0000
 categories: 
 ---
 
