@@ -5,23 +5,22 @@ date:   2021-09-01 00:00:00 +0000
 categories: 
 ---
 
+<img style="float: right; max-height: 160px" src="/assets/images/post/linux-logo.jpg">
 
-Dopo una settimana dall'anniversario dei [30 anni di Linux](https://www.zdnet.com/article/linus-torvalds-on-linuxs-30th-birthday/) mi sembrava doveroso condividere la mia storia con [GNU/Linux](https://www.gnu.org/gnu/linux-and-gnu.it.html) e come lo stesso abbia cambiato la mia vita.
+Dopo una settimana dall'anniversario dei [30 anni di Linux](https://www.zdnet.com/article/linus-torvalds-on-linuxs-30th-birthday/) mi sembrava doveroso condividere la mia storia con [GNU/Linux](https://www.gnu.org/gnu/linux-and-gnu.it.html) e come lo stesso abbia cambiato la mia vita. 
 
 *Un sistema operativo può realmente avere un impatto sulla vita di un individuo?*
 
 Spoiler: `SI`!
 
 
-## Il viaggio con il pinguino 🚀
+## 🚀 Il viaggio con il pinguino 
 
 Il mio viaggio con **GNU/Linux** è stato (lo è ancora) uno di quei viaggi indimenticabili: avventuroso, pieno di ostacoli e soddisfazioni. Se potessi descrivere il tutto con una sola frase: *sbattere la testa ma con entusiasmo*.
 
-### Il primo contatto 👽
+### Il primo contatto 
 
-<div align="center">
-    <img src="https://i.giphy.com/media/26hisVHpbBwfcfKus/giphy.webp" align="center" width="250px">
-</div>
+<img style="float: right; max-height: 220px" src="https://i.giphy.com/media/26hisVHpbBwfcfKus/giphy.webp">
 
 Il mio primo contatto fu nel lontano (o vicino) 2008, avevo 15 anni.
 
@@ -32,11 +31,9 @@ Un giorno, durante le mie avventure da internauta, arrivai ad una pagina intitol
 La cosa iniziò subito ad incuriosirmi e iniziai ad approfondire. Andai sul sito di Ubuntu e scaricai la ISO. Era la versione **Ubuntu 08.10** (*qualcuno ha detto Bbuntu?!?*). Inizialmente fu un cosidetto BdS (*Bagno di Sangue*), non riuscivo a comprendere molto, ma la curiosità mi spinse ad approfondire (*grazie a documentazione, siti web e tanto trial and error*).
 
 
-### Distro hopping e giravolte 🦘
+### Distro hopping e giravolte
 
-<div align="center">
-    <img src="https://i.giphy.com/media/GbIHIHhkgfpAs/giphy.webp" width="250px" title="Io quando provavo una nuova distribuzione">
-</div>
+<img style="float: right; max-height: 220px" src="https://i.giphy.com/media/GbIHIHhkgfpAs/giphy.webp" width="250px" title="Io quando provavo una nuova distribuzione">
 
 Approfondendo, notai che oltre a **Ubuntu** esisteva un mondo, quello delle **"Distribuzioni"**.
 
@@ -56,11 +53,11 @@ La sua filosofia e il suo approccio "[e fattell tu](https://www.youtube.com/watc
 Ho apprezzato davvero tanto la documentazione e AUR, introvabili in altre distribuzioni.
 
 
-### E mò che si usa? 🤌
+### E mò che si usa?
 Da qualche anno utilizzo [openSUSE Tumbleweed](https://en.wikipedia.org/wiki/OpenSUSE) assieme a Fedora, una distro rolling che combina le caratteristiche di Fedora (rpm-based) con quelle di ArchLinux (rolling release). Ho intenzione di fare un post per argomentare meglio openSUSE TW mi ha colpito. 
 
 
-## Come mi ha cambiato la vita? ✨
+## ✨ Come mi ha cambiato la vita? 
 
 <div align="center">
     <img src="https://i.giphy.com/media/26tk04nXG6QELEs3C/giphy.webp" align="center" width="250px">
@@ -89,7 +86,7 @@ Mi ha permesso di:
 
 
 
-## Conclusioni
+## ℹ️ Conclusioni
 
 <div align="center">
     <img src="https://i.giphy.com/media/06gVN8Aj6HGAqezXmq/giphy.webp" align="center" width="250px">
