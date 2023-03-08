@@ -79,5 +79,5 @@ tempo, le proprie competenze, esperienze e passioni informatiche per realizzare 
 
 ## 💬 Come contattarmi 
 
-Potete contattarmi via mail al [seguente indirizzo](mailto:info@francescoesposito.org).
+Potete contattarmi via mail al [seguente indirizzo](mailto:hello@francescoesposito.org).
 Oppure potete trovarmi su [Telegram](https://t.me/franjsco) e [Twitter](https://twitter.com/franjsco).

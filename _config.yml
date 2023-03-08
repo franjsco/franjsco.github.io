@@ -21,7 +21,7 @@
 title: "Francesco Esposito (@franjsco)"
 title_separator: "|"
 name: "Francesco Esposito"
-email: info@francescoesposito.org
+email: hello@francescoesposito.org
 description: >- # this means to ignore newlines until "baseurl:"
   Another developer blog.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -56,9 +56,9 @@ subtitle: "Innovation is freedom"
 author:
   name             : "Francesco Esposito"
   avatar           : "/assets/images/profile.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Software Developer. Opensource and Linux enthusiast. Free as in Freedom"
+  bio              : "Pragmatic Developer. Data Engineer. GNU/Linux and open-source evangelist"
   location         : "Italia, Terra"
-  email            : "info@francescoesposito.org"
+  email            : "hello@francescoesposito.org"
   links:
     - label: "francescoesposito.org"
       icon: "fas fa-fw fa-globe"
