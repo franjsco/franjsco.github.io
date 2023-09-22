@@ -50,15 +50,15 @@ lunr:
   search_within_pages: true
 
 masthead_title: "franjsco"
-subtitle: "Innovation is freedom"
+subtitle: "It's not a bug, it's a feature"
 
 
 # Site Author
 author:
   name             : "Francesco Esposito"
-  avatar           : "/assets/images/profile.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Pragmatic Developer. Data Engineer. GNU/Linux and open-source evangelist"
-  location         : "Italia, Terra"
+  avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Software Engineer. GNU/Linux and Open-source evangelist"
+  location         : "127.0.0.1 (Rimini - Italia)"
   email            : "hello@francescoesposito.org"
   links:
     - label: "francescoesposito.org"

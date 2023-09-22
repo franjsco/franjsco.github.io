@@ -7,8 +7,6 @@ entries_layout: grid
 classes: wide
 ---
 
-In questa pagina è possibile visionare i vari side-project da me sviluppati.
-
-E possibile visionarne altri sul mio [profilo di GitHub](https://github.com/franjsco).
+E possibile visionarne altri side-project sul mio [profilo GitHub](https://github.com/franjsco).
 
 ---
