@@ -5,7 +5,11 @@ permalink: /about/
 toc: false
 ---
 
-\\
+
+<div style="margin-bottom: 16px; align: center">
+<img style="border-radius: 20%" width="400px" src="/assets/images/profile.jpg">
+</div>
+
 Il mio nome è **Francesco Esposito** (aka **@franjsco**) e sono un **software engineer** particolarmente curioso a creare cose.
 
 > *«Datemi un computer e vi "containerizzerò" il mondo»*\\
