@@ -57,12 +57,14 @@ Trascorro spesso parte del mio tempo libero a sviluppare software opensource, pa
 
 Faccio inoltre parte delle seguenti associazioni:
 
--  [NaLUG](https://www.nalug.tech/) - *un'associazione senza scopo di lucro di che ha come finalità la divulgazione e la promozione degli ideali afferenti il software libero con particolare riferimento al sistema operativo GNU/Linux e alle libertà digitali in generale*.
+-  [NaLUG (Napoli Linux User Group)](https://www.nalug.tech/)
 
-- [Informatici Senza Frontiere](https://www.informaticisenzafrontiere.org/) - *un'associazione senza scopo di lucro che propone un nuovo uso della tecnologia più intelligente, sostenibile e solidale. Offre il proprio
-tempo, le proprie competenze, esperienze e passioni informatiche per realizzare progetti no profit, privilegiando contesti di difficoltà, emarginazione e situazioni di emergenza.*
+- [Informatici Senza Frontiere](https://www.informaticisenzafrontiere.org/)
 
-## 💬 Come contattarmi 
+## 💬 Come collegarsi con me
 
 Potete contattarmi via mail al [seguente indirizzo](mailto:hello@francescoesposito.org).
 Oppure potete trovarmi su [Telegram](https://t.me/franjsco) e [Twitter](https://twitter.com/franjsco).
+
+
+Se volete visionare i miei side-project: [Portfolio](/portfolio/)
